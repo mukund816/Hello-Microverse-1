@@ -15,8 +15,9 @@ with CSS  file/ (property) for styling the document. You are welcome to view the
 
 ## Live Demo (if available)
 
-[Live Link](https://github.com/mukund816/Hello-Microverse)
+[Live Link](https://mukund816.github.io/Hello-Microverse-1/)
 
+![Hello Microverse](https://user-images.githubusercontent.com/83513736/204703446-287cd2b9-ce6a-465a-91ae-090468779ecc.jpg)
 
 ## Getting Started
 
